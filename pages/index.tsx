@@ -1,11 +1,10 @@
-import { MintButton, NftList } from 'components';
+import { Welcome, ColorSchemeToggle } from 'components';
 
 export default function HomePage() {
   return (
     <>
-      <p>This is the NFTs screen</p>
-      <NftList />
-      <MintButton />
+      <Welcome />
+      <ColorSchemeToggle />
     </>
   );
 }

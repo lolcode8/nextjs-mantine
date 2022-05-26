@@ -1,1 +1,0 @@
-export { MintButton } from './MintButton';

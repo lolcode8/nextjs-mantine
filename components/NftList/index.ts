@@ -1,1 +1,0 @@
-export { NftList } from './NftList';
