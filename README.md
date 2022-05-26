@@ -1,6 +1,6 @@
 # NFT-Marketplace
 
-A sample marketpalce to view NFTs and claim them with your wallet. The transactions will be gasless and deployed to the Mumbai TestNet.
+A sample marketpalce to view NFTs and claim them with your wallet. The transactions will be gasless and deployed to Rinkeby.
 
 ## Features
 
